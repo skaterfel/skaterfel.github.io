@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta http-equiv="refresh" content="0; URL='https://www.instagram.com/skaterfel/'"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SkaterFelGames - SKGames</title>
+</head>
+<body>
+    <h1>Eu sou um jovem aprendiz em jogos e games</h1>
+    <a href="https://skaterfel.github.io/mug">Link: Mug - Game</a>
+    <a href="https://skaterfel.github.io/hora_atual">Link: Hora Atual</a>
+    <a href="https://skaterfel.github.io/osorteador">Link: O Sorteador</a>
+    <a href="#">Mudança na Página</a>
+    
+    <h1>Lembrar Sempre!</h1>
+    <h2>GitHub:</h2> 
+    <p>
+        <ul>
+            <li>git init</li>
+            <li>git add README.md</li>
+            <li>git commit -m "first commit"</li>
+            <li>git branch -M main</li>
+            <li>git remote add origin https://github.com/felipemelo-dev/gameauction.git</li>
+            <li>git push -u origin main</li>
+        </ul>
+    </p>
+</body>
+</html>
